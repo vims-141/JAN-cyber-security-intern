@@ -1,0 +1,214 @@
+Microsoft Windows [Version 10.0.26200.7623]
+(c) Microsoft Corporation. All rights reserved.
+
+D:\MCA\CYBER INTERN\NMAP>nmap scanme.nmap.org
+Starting Nmap 7.97 ( https://nmap.org ) at 2026-02-04 18:41 +0530
+Nmap scan report for scanme.nmap.org (45.33.32.156)
+Host is up (0.39s latency).
+Other addresses for scanme.nmap.org (not scanned): 2600:3c01::f03c:91ff:fe18:bb2f
+Not shown: 996 closed tcp ports (reset)
+PORT      STATE SERVICE
+22/tcp    open  ssh
+80/tcp    open  http
+9929/tcp  open  nping-echo
+31337/tcp open  Elite
+
+Nmap done: 1 IP address (1 host up) scanned in 26.54 seconds
+
+D:\MCA\CYBER INTERN\NMAP>namp -sV scanme.namp.org
+'namp' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\MCA\CYBER INTERN\NMAP>namp -sV scanme.nmap.org
+'namp' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\MCA\CYBER INTERN\NMAP>nmap -sV scanme.nmap.org
+Starting Nmap 7.97 ( https://nmap.org ) at 2026-02-04 18:48 +0530
+Nmap scan report for scanme.nmap.org (45.33.32.156)
+Host is up (0.40s latency).
+Other addresses for scanme.nmap.org (not scanned): 2600:3c01::f03c:91ff:fe18:bb2f
+Not shown: 996 closed tcp ports (reset)
+PORT      STATE SERVICE    VERSION
+22/tcp    open  ssh        OpenSSH 6.6.1p1 Ubuntu 2ubuntu2.13 (Ubuntu Linux; protocol 2.0)
+80/tcp    open  http       Apache httpd 2.4.7 ((Ubuntu))
+9929/tcp  open  nping-echo Nping echo
+31337/tcp open  tcpwrapped
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 17.80 seconds
+
+D:\MCA\CYBER INTERN\NMAP>22/tcp open ssh Open
+'22' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\MCA\CYBER INTERN\NMAP>22/tcp open ssh OpenSSh 6.6.1pt ubuntu 2ubuntu2.13
+'22' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\MCA\CYBER INTERN\NMAP>http://scanme.nmap.org
+'http:' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\MCA\CYBER INTERN\NMAP>nmap --open --closed scanme.nmap.org
+nmap: unrecognized option `--closed'
+See the output of nmap -h for a summary of options.
+
+D:\MCA\CYBER INTERN\NMAP>-h
+'-h' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\MCA\CYBER INTERN\NMAP>nmap -p 1-100 scanme.nmap.org
+Starting Nmap 7.97 ( https://nmap.org ) at 2026-02-04 19:16 +0530
+Nmap scan report for scanme.nmap.org (45.33.32.156)
+Host is up (0.38s latency).
+Other addresses for scanme.nmap.org (not scanned): 2600:3c01::f03c:91ff:fe18:bb2f
+Not shown: 98 closed tcp ports (reset)
+PORT   STATE SERVICE
+22/tcp open  ssh
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 2.52 seconds
+
+D:\MCA\CYBER INTERN\NMAP>nmap -p 1-100000 scanme.nmap.org
+Starting Nmap 7.97 ( https://nmap.org ) at 2026-02-04 19:17 +0530
+Ports specified must be between 0 and 65535 inclusive
+QUITTING!
+
+D:\MCA\CYBER INTERN\NMAP>nmap -p 1-65000 scanme.nmap.org
+Starting Nmap 7.97 ( https://nmap.org ) at 2026-02-04 19:17 +0530
+^C
+D:\MCA\CYBER INTERN\NMAP>ipconfig
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet 4:
+
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::5278:6423:7dec:1b4c%16
+   IPv4 Address. . . . . . . . . . . : 192.168.56.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . :
+
+Unknown adapter Local Area Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . :
+   IPv6 Address. . . . . . . . . . . : 2401:4900:6337:f541:5467:f3a5:9ebe:6a20
+   Temporary IPv6 Address. . . . . . : 2401:4900:6337:f541:9812:ee15:c3c9:9b87
+   Link-local IPv6 Address . . . . . : fe80::9c1c:492a:24d1:5ad0%5
+   IPv4 Address. . . . . . . . . . . : 10.58.238.148
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : fe80::f091:d5ff:fe5b:5ced%5
+                                       10.58.238.252
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+D:\MCA\CYBER INTERN\NMAP>scanme.nmap,org
+'scanme.nmap' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\MCA\CYBER INTERN\NMAP>scanme.nmap.org
+'scanme.nmap.org' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\MCA\CYBER INTERN\NMAP>nmap  10.58.238.148
+Starting Nmap 7.97 ( https://nmap.org ) at 2026-02-04 19:31 +0530
+Nmap scan report for 10.58.238.148
+Host is up (0.00066s latency).
+Not shown: 996 closed tcp ports (reset)
+PORT     STATE SERVICE
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+3306/tcp open  mysql
+
+Nmap done: 1 IP address (1 host up) scanned in 1.15 seconds
+
+D:\MCA\CYBER INTERN\NMAP>nmap -O scanme.nmap.org
+Starting Nmap 7.97 ( https://nmap.org ) at 2026-02-04 19:35 +0530
+Nmap scan report for scanme.nmap.org (45.33.32.156)
+Host is up (0.33s latency).
+Other addresses for scanme.nmap.org (not scanned): 2600:3c01::f03c:91ff:fe18:bb2f
+Not shown: 996 closed tcp ports (reset)
+PORT      STATE    SERVICE
+22/tcp    open     ssh
+80/tcp    open     http
+9929/tcp  filtered nping-echo
+31337/tcp open     Elite
+Device type: general purpose|firewall
+Running (JUST GUESSING): Linux 5.X|4.X (87%), SonicWALL embedded (85%)
+OS CPE: cpe:/o:linux:linux_kernel:5.18 cpe:/o:linux:linux_kernel:4 cpe:/o:sonicwall:aventail_ex-1500
+Aggressive OS guesses: Linux 5.18 (87%), Linux 5.4 (87%), Linux 4.15 - 5.19 (85%), SonicWALL Aventail EX-1500 SSL VPN appliance (85%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 17 hops
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 17.89 seconds
+
+D:\MCA\CYBER INTERN\NMAP>nmap -sV -0 scanme.nmap.org -oN final_nmap_report.txt
+nmap: illegal option -- 0
+See the output of nmap -h for a summary of options.
+
+D:\MCA\CYBER INTERN\NMAP>nmap -sV -A scanme.nmap.org -oN final_nmap_report.txt
+Starting Nmap 7.97 ( https://nmap.org ) at 2026-02-04 19:57 +0530
+Nmap scan report for scanme.nmap.org (45.33.32.156)
+Host is up (0.16s latency).
+Other addresses for scanme.nmap.org (not scanned): 2600:3c01::f03c:91ff:fe18:bb2f
+Not shown: 996 closed tcp ports (reset)
+PORT      STATE SERVICE    VERSION
+22/tcp    open  ssh        OpenSSH 6.6.1p1 Ubuntu 2ubuntu2.13 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey:
+|   1024 ac:00:a0:1a:82:ff:cc:55:99:dc:67:2b:34:97:6b:75 (DSA)
+|   2048 20:3d:2d:44:62:2a:b0:5a:9d:b5:b3:05:14:c2:a6:b2 (RSA)
+|   256 96:02:bb:5e:57:54:1c:4e:45:2f:56:4c:4a:24:b2:57 (ECDSA)
+|_  256 33:fa:91:0f:e0:e1:7b:1f:6d:05:a2:b0:f1:54:41:56 (ED25519)
+80/tcp    open  http       Apache httpd 2.4.7 ((Ubuntu))
+|_http-title: Go ahead and ScanMe!
+|_http-server-header: Apache/2.4.7 (Ubuntu)
+|_http-favicon: Nmap Project
+9929/tcp  open  nping-echo Nping echo
+31337/tcp open  tcpwrapped
+Device type: general purpose|firewall
+Running (JUST GUESSING): Linux 5.X|4.X (85%), SonicWALL embedded (85%)
+OS CPE: cpe:/o:linux:linux_kernel:5.18 cpe:/o:linux:linux_kernel:4 cpe:/o:sonicwall:aventail_ex-1500
+Aggressive OS guesses: Linux 5.18 (85%), Linux 5.4 (85%), Linux 4.15 - 5.19 (85%), SonicWALL Aventail EX-1500 SSL VPN appliance (85%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 5 hops
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+TRACEROUTE (using port 80/tcp)
+HOP RTT      ADDRESS
+1   12.00 ms 10.58.238.252
+2   35.00 ms 192.168.29.10
+3   ...
+4   20.00 ms 192.168.31.20
+5   27.00 ms scanme.nmap.org (45.33.32.156)
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 43.68 seconds
+
+D:\MCA\CYBER INTERN\NMAP>oN
+'oN' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\MCA\CYBER INTERN\NMAP>nmap scanme.nmap.org -oN basic_scan.txt
