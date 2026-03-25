@@ -1,0 +1,529 @@
+PS D:\MCA\CYBER INTERN\TASKs\task result\project result>  & 'c:\Users\VIMAL\AppData\Local\Microsoft\WindowsApps\python3.13.exe' 'c:\Users\VIMAL\.vscode\extensions\ms-python.debugpy-2025.18.0-win32-x64\bundled\libs\debugpy\launcher' '38041' '--' 'D:\MCA\CYBER INTERN\TASKs\task result\project result\firewall5.py' 
+============================================================
+            PERSONAL FIREWALL PROJECT
+============================================================
+🛡️  A Python-based firewall with packet sniffing
+📋 Satisfies all project requirements:
+   ✅ Packet sniffing with Scapy
+   ✅ Rule-based filtering
+   ✅ Logging and monitoring
+   ✅ GUI interface
+   ✅ CLI interface
+============================================================
+⚠️  WARNING: Not running as Administrator!
+   Packet capture may not work properly
+   Run as Administrator (Windows) or with sudo (Linux/Mac)
+
+
+--- CHOOSE INTERFACE ---
+1. CLI Mode (Command Line)
+2. GUI Mode (Graphical)
+3. Exit
+
+Enter choice (1-3): 2
+
+🖼️  Starting GUI mode...
+PS D:\MCA\CYBER INTERN\TASKs\task result\project result>  d:; cd 'd:\MCA\CYBER INTERN\TASKs\task result\project result'; & 'c:\Users\VIMAL\AppData\Local\Microsoft\WindowsApps\python3.13.exe' 'c:\Users\VIMAL\.vscode\extensions\ms-python.debugpy-2025.18.0-win32-x64\bundled\libs\debugpy\launcher' '4510' '--' 'D:\MCA\CYBER INTERN\TASKs\task result\project result\firewall5.py' 
+============================================================
+            PERSONAL FIREWALL PROJECT
+============================================================
+🛡️  A Python-based firewall with packet sniffing
+📋 Satisfies all project requirements:
+   ✅ Packet sniffing with Scapy
+   ✅ Rule-based filtering
+   ✅ Logging and monitoring
+   ✅ GUI interface
+   ✅ CLI interface
+============================================================
+⚠️  WARNING: Not running as Administrator!
+   Packet capture may not work properly
+   Run as Administrator (Windows) or with sudo (Linux/Mac)
+
+
+--- CHOOSE INTERFACE ---
+1. CLI Mode (Command Line)
+2. GUI Mode (Graphical)
+3. Exit
+
+Enter choice (1-3): 1
+
+🖥️  Starting CLI mode...
+
+==================================================
+         PERSONAL FIREWALL - CLI MODE
+==================================================
+
+📊 Status: 🔴 STOPPED
+📈 Stats: 0 total, 0 blocked
+
+--- FIREWALL MENU ---
+1. View Rules
+2. Add Rule
+3. Delete Rule
+4. Start Monitoring
+5. Stop Monitoring
+6. Show Statistics
+7. View Logs
+8. Exit
+
+Enter choice: 4
+🚀 Starting packet monitoring...
+   (Press Ctrl+C to stop)
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+✅  →  () - Default
+
+⏸️ Monitoring continues in background...
+
+Press Enter to continue...
+
+📊 Status: 🟢 RUNNING
+📈 Stats: 153 total, 0 blocked
+
+--- FIREWALL MENU ---
+1. View Rules
+2. Add Rule
+3. Delete Rule
+4. Start Monitoring
+5. Stop Monitoring
+6. Show Statistics
+7. View Logs
+8. Exit
+
+Enter choice: 7
+
+--- RECENT LOGS (Last 20) ---
+[16:36:43] ✅  →  () - Default
+[16:36:43] ✅  →  () - Default
+[16:36:43] ✅  →  () - Default
+[16:36:43] ✅  →  () - Default
+[16:36:43] ✅  →  () - Default
+[16:36:43] ✅  →  () - Default
+[16:36:43] ✅  →  () - Default
+[16:36:43] ✅  →  () - Default
+[16:36:43] ✅  →  () - Default
+[16:36:43] ✅  →  () - Default
+[16:36:43] ✅  →  () - Default
+[16:36:43] ✅  →  () - Default
+[16:36:43] ✅  →  () - Default
+[16:36:43] ✅  →  () - Default
+[16:36:43] ✅  →  () - Default
+[16:36:43] ✅  →  () - Default
+[16:36:43] ✅  →  () - Default
+[16:36:43] ✅  →  () - Default
+[16:36:43] ✅  →  () - Default
+[16:36:43] ✅  →  () - Default
+
+Press Enter to continue...
+
+📊 Status: 🟢 RUNNING
+📈 Stats: 153 total, 0 blocked
+
+--- FIREWALL MENU ---
+1. View Rules
+2. Add Rule
+3. Delete Rule
+4. Start Monitoring
+5. Stop Monitoring
+6. Show Statistics
+7. View Logs
+8. Exit
+
+Enter choice: 2
+
+--- ADD NEW RULE ---
+Rule name: VIMS
+Action (block/allow): BLOCK
+IP address (optional): 127.0.0.0.1
+Port (optional): 
+Protocol (tcp/udp/icmp/any) [any]: TCP
+✅ Rule 'VIMS' added with ID 5
+
+Press Enter to continue...
+
+📊 Status: 🟢 RUNNING
+📈 Stats: 153 total, 0 blocked
+
+--- FIREWALL MENU ---
+1. View Rules
+2. Add Rule
+3. Delete Rule
+4. Start Monitoring
+5. Stop Monitoring
+6. Show Statistics
+7. View Logs
+8. Exit
+
+Enter choice: 3
+
+--- FIREWALL RULES ---
+ID  Name            Action IP              Port   Proto  Status   Hits
+----------------------------------------------------------------------
+1   Block Telnet    BLOCK  any             23     tcp    ON       0
+2   Block SMB       BLOCK  any             445    tcp    ON       0
+3   Allow HTTP      ALLOW  any             80     tcp    ON       0
+4   Allow HTTPS     ALLOW  any             443    tcp    ON       0
+5   VIMS            BLOCK  127.0.0.0.1     any    tcp    ON       0
+
+Enter rule ID to delete: VIMS
+❌ Invalid ID!
+
+Press Enter to continue...
+
+📊 Status: 🟢 RUNNING
+📈 Stats: 153 total, 0 blocked
+
+--- FIREWALL MENU ---
+1. View Rules
+2. Add Rule
+3. Delete Rule
+4. Start Monitoring
+5. Stop Monitoring
+6. Show Statistics
+7. View Logs
+8. Exit
+
+Enter choice: 3
+
+--- FIREWALL RULES ---
+ID  Name            Action IP              Port   Proto  Status   Hits
+----------------------------------------------------------------------
+1   Block Telnet    BLOCK  any             23     tcp    ON       0
+2   Block SMB       BLOCK  any             445    tcp    ON       0
+3   Allow HTTP      ALLOW  any             80     tcp    ON       0
+4   Allow HTTPS     ALLOW  any             443    tcp    ON       0
+5   VIMS            BLOCK  127.0.0.0.1     any    tcp    ON       0
+
+Enter rule ID to delete: VIMS
+❌ Invalid ID!
+
+Press Enter to continue...
+
+📊 Status: 🟢 RUNNING
+📈 Stats: 153 total, 0 blocked
+
+--- FIREWALL MENU ---
+1. View Rules
+2. Add Rule
+3. Delete Rule
+4. Start Monitoring
+5. Stop Monitoring
+6. Show Statistics
+7. View Logs
+8. Exit
+
+Enter choice: !
+❌ Invalid choice!
+
+Press Enter to continue...
+
+📊 Status: 🟢 RUNNING
+📈 Stats: 153 total, 0 blocked
+
+--- FIREWALL MENU ---
+1. View Rules
+2. Add Rule
+3. Delete Rule
+4. Start Monitoring
+5. Stop Monitoring
+6. Show Statistics
+7. View Logs
+8. Exit
+
+Enter choice: 1
+
+--- FIREWALL RULES ---
+ID  Name            Action IP              Port   Proto  Status   Hits
+----------------------------------------------------------------------
+1   Block Telnet    BLOCK  any             23     tcp    ON       0
+2   Block SMB       BLOCK  any             445    tcp    ON       0
+3   Allow HTTP      ALLOW  any             80     tcp    ON       0
+4   Allow HTTPS     ALLOW  any             443    tcp    ON       0
+5   VIMS            BLOCK  127.0.0.0.1     any    tcp    ON       0
+
+Press Enter to continue...
+
+📊 Status: 🟢 RUNNING
+📈 Stats: 153 total, 0 blocked
+
+--- FIREWALL MENU ---
+1. View Rules
+2. Add Rule
+3. Delete Rule
+4. Start Monitoring
+5. Stop Monitoring
+6. Show Statistics
+7. View Logs
+8. Exit
+
+Enter choice: 2
+
+--- ADD NEW RULE ---
+Rule name: w
+Action (block/allow): allow
+IP address (optional): 127.0.0.1
+Port (optional): 
+Protocol (tcp/udp/icmp/any) [any]: tcp
+✅ Rule 'w' added with ID 6
+
+Press Enter to continue...
+
+📊 Status: 🟢 RUNNING
+📈 Stats: 153 total, 0 blocked
+
+--- FIREWALL MENU ---
+1. View Rules
+2. Add Rule
+3. Delete Rule
+4. Start Monitoring
+5. Stop Monitoring
+6. Show Statistics
+7. View Logs
+8. Exit
+
+Enter choice: 1
+
+--- FIREWALL RULES ---
+ID  Name            Action IP              Port   Proto  Status   Hits
+----------------------------------------------------------------------
+1   Block Telnet    BLOCK  any             23     tcp    ON       0
+2   Block SMB       BLOCK  any             445    tcp    ON       0
+3   Allow HTTP      ALLOW  any             80     tcp    ON       0
+4   Allow HTTPS     ALLOW  any             443    tcp    ON       0
+5   VIMS            BLOCK  127.0.0.0.1     any    tcp    ON       0
+6   w               ALLOW  127.0.0.1       any    tcp    ON       0
+
+Press Enter to continue...
+
+📊 Status: 🟢 RUNNING
+📈 Stats: 153 total, 0 blocked
+
+--- FIREWALL MENU ---
+1. View Rules
+2. Add Rule
+3. Delete Rule
+4. Start Monitoring
+5. Stop Monitoring
+6. Show Statistics
+7. View Logs
+8. Exit
+
+Enter choice: 3
+
+--- FIREWALL RULES ---
+ID  Name            Action IP              Port   Proto  Status   Hits
+----------------------------------------------------------------------
+1   Block Telnet    BLOCK  any             23     tcp    ON       0
+2   Block SMB       BLOCK  any             445    tcp    ON       0
+3   Allow HTTP      ALLOW  any             80     tcp    ON       0
+4   Allow HTTPS     ALLOW  any             443    tcp    ON       0
+5   VIMS            BLOCK  127.0.0.0.1     any    tcp    ON       0
+6   w               ALLOW  127.0.0.1       any    tcp    ON       0
+
+Enter rule ID to delete: 5
+✅ Rule 'VIMS' deleted
+
+Press Enter to continue...
+
+📊 Status: 🟢 RUNNING
+📈 Stats: 153 total, 0 blocked
+
+--- FIREWALL MENU ---
+1. View Rules
+2. Add Rule
+3. Delete Rule
+4. Start Monitoring
+5. Stop Monitoring
+6. Show Statistics
+7. View Logs
+8. Exit
+
+Enter choice: 3
+
+--- FIREWALL RULES ---
+ID  Name            Action IP              Port   Proto  Status   Hits
+----------------------------------------------------------------------
+1   Block Telnet    BLOCK  any             23     tcp    ON       0
+2   Block SMB       BLOCK  any             445    tcp    ON       0
+3   Allow HTTP      ALLOW  any             80     tcp    ON       0
+4   Allow HTTPS     ALLOW  any             443    tcp    ON       0
+6   w               ALLOW  127.0.0.1       any    tcp    ON       0
+
+Enter rule ID to delete: 6
+✅ Rule 'w' deleted
+
+Press Enter to continue...
+
+📊 Status: 🟢 RUNNING
+📈 Stats: 153 total, 0 blocked
+
+--- FIREWALL MENU ---
+1. View Rules
+2. Add Rule
+3. Delete Rule
+4. Start Monitoring
+5. Stop Monitoring
+6. Show Statistics
+7. View Logs
+8. Exit
+
+Enter choice: 6
+
+--- STATISTICS ---
+Total Packets: 153
+Blocked: 0
+Allowed: 153
+
+--- RULE HITS ---
+
+Press Enter to continue...
